@@ -1,0 +1,2 @@
+# Existing project already provides JupyterLab and ipykernel.
+pyDatalog==0.22.4

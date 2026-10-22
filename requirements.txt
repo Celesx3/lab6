@@ -1,0 +1,3 @@
+pyDatalog==0.22.4
+jupyterlab
+ipykernel

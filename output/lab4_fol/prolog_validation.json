@@ -1,0 +1,53 @@
+{
+  "engine": "SWI-Prolog swi(10,1,18,[]) (official swipl-wasm 8.2.3)",
+  "tests": "45 PL-Unit tests passed",
+  "relations_compared": 25,
+  "status": "PASS: Prolog, pyDatalog, independent Python reference agree",
+  "examples": {
+    "parent count": 18,
+    "sibling proofs": {
+      "proofs": [
+        "bold",
+        "tomor",
+        "bold",
+        "tomor"
+      ],
+      "count": 4,
+      "unique": [
+        "bold",
+        "tomor"
+      ]
+    },
+    "ancestor(bataa,temuulen)": true,
+    "childless(temuulen)": true,
+    "childless(bataa)": false
+  },
+  "relation_counts": {
+    "male": 8,
+    "female": 7,
+    "person": 15,
+    "has_child": 10,
+    "childless": 5,
+    "has_cousin": 5,
+    "has_grandchild": 4,
+    "parent": 18,
+    "father": 9,
+    "mother": 9,
+    "son": 10,
+    "daughter": 8,
+    "grandparent": 12,
+    "sibling": 10,
+    "brother": 6,
+    "sister": 4,
+    "uncle": 8,
+    "aunt": 3,
+    "cousin": 16,
+    "ancestor": 32,
+    "descendant": 32,
+    "great_grandparent": 2,
+    "spouse": 10,
+    "uncle_in_law": 3,
+    "aunt_in_law": 7
+  },
+  "logs": []
+}
